@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
