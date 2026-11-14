@@ -6,12 +6,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
