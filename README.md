@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/medAminesabri/leetcode-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
